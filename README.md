@@ -55,27 +55,23 @@ Dynamic React form system with structured backend integration and cloud file han
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <!-- Try the code -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=Git-by-Muhammad&theme=tokyonight&row=1&column=7" />
 </p>
 
 <p align="center">
-  <!-- Total GitHub Stats (Commits, PRs, Issues, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-by-Muhammad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Contribution Graph (snake) -->
+  <img src="https://raw.githubusercontent.com/Git-by-Muhammad/Git-by-Muhammad/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Git-by-Muhammad&theme=tokyonight" alt="GitHub Streak Stats" />
+  <!-- Optional WakaTime coding stats -->
+  <img src="https://wakatime.com/share/@USERNAME/PROJECT.svg" />
 </p>
 
-<p align="center">
-  <!-- Top Languages (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-by-Muhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
 
