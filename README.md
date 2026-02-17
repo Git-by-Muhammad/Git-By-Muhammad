@@ -58,6 +58,11 @@ Dynamic React form system with structured backend integration and cloud file han
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Try the code -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Git-by-Muhammad&theme=tokyonight&row=1&column=7" />
+</p>
+
+<p align="center">
   <!-- Total GitHub Stats (Commits, PRs, Issues, etc.) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Git-by-Muhammad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
