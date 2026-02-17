@@ -58,17 +58,19 @@ Dynamic React form system with structured backend integration and cloud file han
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <!-- Total GitHub Stats (Commits, PRs, Issues, etc.) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-by-Muhammad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Git-by-Muhammad&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <!-- Top Languages (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-by-Muhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 
 
